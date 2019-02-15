@@ -1,0 +1,14 @@
+C:\Users\48975462811\Documents\Api\Svigufo\Senai.SVIGUFO.WebApi\Senai.SVIGUFO.WebApi\bin\Debug\netcoreapp2.1\Senai.SVIGUFO.WebApi.deps.json
+C:\Users\48975462811\Documents\Api\Svigufo\Senai.SVIGUFO.WebApi\Senai.SVIGUFO.WebApi\bin\Debug\netcoreapp2.1\Senai.SVIGUFO.WebApi.runtimeconfig.json
+C:\Users\48975462811\Documents\Api\Svigufo\Senai.SVIGUFO.WebApi\Senai.SVIGUFO.WebApi\bin\Debug\netcoreapp2.1\Senai.SVIGUFO.WebApi.runtimeconfig.dev.json
+C:\Users\48975462811\Documents\Api\Svigufo\Senai.SVIGUFO.WebApi\Senai.SVIGUFO.WebApi\bin\Debug\netcoreapp2.1\Senai.SVIGUFO.WebApi.dll
+C:\Users\48975462811\Documents\Api\Svigufo\Senai.SVIGUFO.WebApi\Senai.SVIGUFO.WebApi\obj\Debug\netcoreapp2.1\Senai.SVIGUFO.WebApi.csprojAssemblyReference.cache
+C:\Users\48975462811\Documents\Api\Svigufo\Senai.SVIGUFO.WebApi\Senai.SVIGUFO.WebApi\obj\Debug\netcoreapp2.1\Senai.SVIGUFO.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\48975462811\Documents\Api\Svigufo\Senai.SVIGUFO.WebApi\Senai.SVIGUFO.WebApi\obj\Debug\netcoreapp2.1\Senai.SVIGUFO.WebApi.RazorAssemblyInfo.cache
+C:\Users\48975462811\Documents\Api\Svigufo\Senai.SVIGUFO.WebApi\Senai.SVIGUFO.WebApi\obj\Debug\netcoreapp2.1\Senai.SVIGUFO.WebApi.RazorAssemblyInfo.cs
+C:\Users\48975462811\Documents\Api\Svigufo\Senai.SVIGUFO.WebApi\Senai.SVIGUFO.WebApi\obj\Debug\netcoreapp2.1\Senai.SVIGUFO.WebApi.AssemblyInfoInputs.cache
+C:\Users\48975462811\Documents\Api\Svigufo\Senai.SVIGUFO.WebApi\Senai.SVIGUFO.WebApi\obj\Debug\netcoreapp2.1\Senai.SVIGUFO.WebApi.AssemblyInfo.cs
+C:\Users\48975462811\Documents\Api\Svigufo\Senai.SVIGUFO.WebApi\Senai.SVIGUFO.WebApi\obj\Debug\netcoreapp2.1\Senai.SVIGUFO.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\48975462811\Documents\Api\Svigufo\Senai.SVIGUFO.WebApi\Senai.SVIGUFO.WebApi\bin\Debug\netcoreapp2.1\Senai.SVIGUFO.WebApi.pdb
+C:\Users\48975462811\Documents\Api\Svigufo\Senai.SVIGUFO.WebApi\Senai.SVIGUFO.WebApi\obj\Debug\netcoreapp2.1\Senai.SVIGUFO.WebApi.dll
+C:\Users\48975462811\Documents\Api\Svigufo\Senai.SVIGUFO.WebApi\Senai.SVIGUFO.WebApi\obj\Debug\netcoreapp2.1\Senai.SVIGUFO.WebApi.pdb
